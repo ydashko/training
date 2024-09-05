@@ -2,5 +2,6 @@
   Used base layout template with Gulp, SCSS and Stylelint
 
 
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+    - [DEMO](https://<your_account>.github.io/<repo_name>/)
 
+Also do in react/react native vue
